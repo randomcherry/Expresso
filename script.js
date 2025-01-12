@@ -5,5 +5,5 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function getStarted() {
-    window.location.href = homeScreen.html;
+    window.location.href = "instagram.com";
 }
